@@ -1,0 +1,21 @@
+{
+  "name": "senior-knowledge-hub-web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Senior Knowledge Hub - a frontend-only React + Vite knowledge hub for final-year students preparing for senior placements.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
